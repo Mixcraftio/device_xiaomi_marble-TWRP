@@ -31,6 +31,7 @@ TARGET_OTA_ASSERT_DEVICE := marble
 
 # TWRP specific build flags
 TW_FRAMERATE := 120
+TW_MAX_BRIGHTNESS := 2047
 
 # Vibrator
 TW_SUPPORT_INPUT_AIDL_HAPTICS := true
